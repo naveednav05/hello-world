@@ -65,6 +65,6 @@
 </head>
 <body>
   <div class="glow">NAVEED</div>
-  <div class="subtitle">🚀 Welcome to the DevOps Zone 🚀</div>
+  <div class="subtitle">🚀 NEW DEVOPS PROJECT 🚀</div>
 </body>
 </html>
