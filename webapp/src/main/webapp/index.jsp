@@ -65,6 +65,6 @@
 </head>
 <body>
   <div class="glow">NAVEED Devops</div>
-  <div class="subtitle">🚀 NEW DEVOPS PROJECT 🚀</div>
+  <div class="subtitle">🚀 Coming from ansible 🚀</div>
 </body>
 </html>
