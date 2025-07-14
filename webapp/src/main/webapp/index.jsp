@@ -64,7 +64,7 @@
   </style>
 </head>
 <body>
-  <div class="glow">NAVEED New</div>
+  <div class="glow">NAVEED New 1</div>
   <div class="subtitle">🚀 NEW DEVOPS PROJECT 🚀</div>
 </body>
 </html>
