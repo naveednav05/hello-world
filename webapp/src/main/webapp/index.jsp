@@ -65,6 +65,6 @@
 </head>
 <body>
   <div class="glow">NAVEED Devops</div>
-  <div class="subtitle">🚀 Coming from ansible Server Hope it works🚀</div>
+  <div class="subtitle">🚀 Coming from Kubernates server🚀</div>
 </body>
 </html>
