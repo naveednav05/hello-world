@@ -65,6 +65,6 @@
 </head>
 <body>
   <div class="glow">NAVEED Devops</div>
-  <div class="subtitle">🚀 Coming from Kubernates server with K3🚀</div>
+  <div class="subtitle">🚀 Coming from Kubernates server🚀</div>
 </body>
 </html>
